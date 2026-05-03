@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Rot1k/Rot1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rostyslav, a Unity game developer based in Ukraine
 
-Here are some ideas to get you started:
+The main aim of this profile is to showcase my personal projects as a portfolio and share them with the community to get feedback
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠 Tech Stack
+
+### Game Development
+
+Unity, C#
+
+### Tools & Frameworks
+
+VContainer (DI)
+
+DOTween (animations)
+
+Cinemachine (camera systems)
+
+### Other
+
+Git (version control)
+
+UML (basic system design)
